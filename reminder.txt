@@ -1,0 +1,3 @@
+J - cost function;
+Θ - weights;
+hΘ - hypothesis (target value);
